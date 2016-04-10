@@ -33,6 +33,7 @@
     tieba.baidu.com##.thread_recommend.thread-recommend
     tieba.baidu.com##.toggle_btn.inlineBlock
     tieba.baidu.com##.top_activity.clearfix
+	tieba.baidu.com###novel-ranking
 
 ##变化
 

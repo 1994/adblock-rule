@@ -54,3 +54,4 @@ tieba.baidu.com##.tbui_aside_float_bar
 baidu.com##.s-treasure
 baidu.com##.s-skin
 baidu.com##.no-qrcode-layer
+tieba.baidu.com###novel-ranking
