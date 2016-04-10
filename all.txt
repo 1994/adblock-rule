@@ -1,0 +1,56 @@
+tieba.baidu.com###forum_recommend
+tieba.baidu.com###global_notice_wrap
+tieba.baidu.com###pb_adbanner
+tieba.baidu.com###top_activity
+tieba.baidu.com##.aside_region.celebrity
+tieba.baidu.com##.forum_recommend
+tieba.baidu.com##.global_notice_wrap
+tieba.baidu.com##.iframe_wrapper.clearfix
+tieba.baidu.com##.j_firework_sender.firework_sender
+tieba.baidu.com##.l_banner.banner_wangmeng_theme
+tieba.baidu.com##.l_post_bright.n7f5299d8f.clearfix
+tieba.baidu.com##.thread_recommend.thread-recommend
+tieba.baidu.com##.toggle_btn.inlineBlock
+tieba.baidu.com##.top_activity.clearfix
+weibo.com###Pl_Core_ThirdHtmlData__4
+weibo.com###Pl_Official_LikeMerge__20
+weibo.com###v6_pl_ad_bigday
+weibo.com###v6_pl_ad_forfqy
+weibo.com###v6_pl_rightmod_attfeed
+weibo.com###v6_pl_rightmod_noticeboard
+weibo.com###v6_pl_rightmod_recominfo
+weibo.com###v6_trustPagelet_recom_member
+weibo.com##.WB_cardmore.S_txt1.S_line1.clearfix
+weibo.com##.WB_cardtitle_b.S_line2
+weibo.com##.WB_cardtitle_d
+weibo.com##.WB_innerwrap.S_bg1
+weibo.com##.hot_topic
+weibo.com##.info_box
+weibo.com##.inner.S_line2.clearfix
+weibo.com##.item.SW_fun_bg.clearfix.show
+weibo.com##.li_box.S_line2
+weibo.com##.menbernote
+weibo.com##.opinion_type_list
+||tieba.baidu.com/tb/zt/spread/pcwm.html?tpl=pb&page=pb&id=613519&forumId=510187
+weibo.com###Pl_Official_MyPopularity__21
+weibo.com##.gn_position li:nth-child(3)
+baidu.com###s_wrap
+tieba.baidu.com##.top-sec
+tieba.baidu.com##.right-sec
+tieba.baidu.com##.f-d-w
+tieba.baidu.com###spage_game_tab_wrapper
+tieba.baidu.com##.footer
+tieba.baidu.com###com_userbar li[class=u_wallet]
+tieba.baidu.com###com_userbar li[class=u_tbmall]
+tieba.baidu.com###com_userbar li[class=u_app]
+tieba.baidu.com###com_userbar li[class=u_joinvip]
+tieba.baidu.com###com_userbar li[class=u_appcenterEntrance]
+tieba.baidu.com##.u-f-t
+tieba.baidu.com##.user_score
+tieba.baidu.com##.user_tbmall
+tieba.baidu.com###celebrity
+tieba.baidu.com##.region_bright.celebrity
+tieba.baidu.com##.tbui_aside_float_bar
+baidu.com##.s-treasure
+baidu.com##.s-skin
+baidu.com##.no-qrcode-layer
